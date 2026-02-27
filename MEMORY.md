@@ -18,10 +18,11 @@
   - `user.name`: `Vivi Botth`
   - `user.email`: `vivibotth@gmail.com`
 - Estandarizar rama principal del repo en **`main`**.
+- Programar ejecución diaria de MercadoPúblico vía OpenClaw cron (`vivi-mercadopublico-diario`) a las 08:00 (America/Santiago) con reporte automático por Telegram.
 
 ## 3) Pendientes Activos
-- Definir y documentar flujo diario para monitoreo de **compras ágiles en MercadoPublico.cl**.
-- Recibir instrucciones detalladas y credenciales necesarias para ejecutar ese flujo.
+- Confirmar/registrar ruta exacta del directorio destino en Escritorio ThinkStation C30 para guardar carpetas y adjuntos de cada licitación.
+- Ajustar filtros de relevancia (si aplica: rubro, organismo, monto, región, plazos) para optimizar el reporte diario.
 
 ## 4) Infra / Accesos Técnicos
 - Repo remoto configurado: `git@github-vivi:cbrafilms/vivibotth.git`
