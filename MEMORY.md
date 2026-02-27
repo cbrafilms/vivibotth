@@ -21,7 +21,6 @@
 - Programar ejecución diaria de MercadoPúblico vía OpenClaw cron (`vivi-mercadopublico-diario`) a las 08:00 (America/Santiago) con reporte automático por Telegram.
 
 ## 3) Pendientes Activos
-- Confirmar/registrar ruta exacta del directorio destino en Escritorio ThinkStation C30 para guardar carpetas y adjuntos de cada licitación.
 - Ajustar filtros de relevancia (si aplica: rubro, organismo, monto, región, plazos) para optimizar el reporte diario.
 
 ## 4) Infra / Accesos Técnicos
@@ -29,6 +28,8 @@
 - Rama principal actual: `main`
 - SSH dedicada de Vivi creada y activa: `~/.ssh/id_ed25519_vivi`
 - Cuenta Google de trabajo con acceso configurado en `gog`: `vivibotth@gmail.com` (gmail, drive, docs, sheets)
+- Ruta de guardado de licitaciones/aduntos: `/home/cbra-films/Escritorio/VIVI/mercadopublico`
+- Convención de carpetas: `CODIGO - nombre corto del requerimiento`.
 
 ## 5) Lecciones / Reglas de Operación
 - Mantener `MEMORY.md` como memoria curada (no volcar ruido diario).
