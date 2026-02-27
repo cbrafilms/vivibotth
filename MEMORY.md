@@ -35,6 +35,9 @@
 - Mantener `MEMORY.md` como memoria curada (no volcar ruido diario).
 - Registrar eventos diarios en `memory/YYYY-MM-DD.md` y subir a `MEMORY.md` solo lo que sea durable.
 - Hacer commits claros y atómicos para cambios relevantes.
+- Si aparece `AccessDenied` o hay pocas oportunidades, usar búsqueda dirigida en **Compra Ágil** con términos: Vídeo, Audiovisual, Streaming, Podcast, Fotografía, Campaña (últimos 3 días).
+- Entrar por botón **Participar** para revisar montos, organismo/ubicación y adjuntos antes de evaluar.
+- Excluir licitaciones de compra de productos/insumos del shortlist relevante para CBRA.
 
 ## 6) Última Actualización
 - 2026-02-27
