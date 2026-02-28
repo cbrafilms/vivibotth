@@ -42,6 +42,7 @@
 - Si aparece `AccessDenied` o hay pocas oportunidades, usar búsqueda dirigida en **Compra Ágil** con términos: Vídeo, Audiovisual, Streaming, Podcast, Fotografía, Campaña (últimos 3 días).
 - Entrar por botón **Participar** para revisar montos, organismo/ubicación y adjuntos antes de evaluar.
 - Excluir licitaciones de compra de productos/insumos del shortlist relevante para CBRA.
+- Ejecutar SIEMPRE el flujo completo (login + búsqueda por términos + ingreso por Participar + revisión + descarga + reporte final), sin cortar pasos.
 
 ## 6) Última Actualización
 - 2026-02-27
