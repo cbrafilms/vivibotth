@@ -7,6 +7,7 @@ _Learn about the person you're helping. Update this as you go._
 - **Pronouns:** _(optional)_
 - **Timezone:** America/Santiago
 - **Notes:** Director, socio y productor de CBRA FILMS (Santiago de Chile). Sitio: www.cbrafilms.com.
+- **Communication preference:** respuestas cortas y precisas por defecto; extender solo cuando el mensaje lo amerite.
 
 ## Context
 

@@ -1,5 +1,9 @@
 # MEMORY.md - Long-Term Memory
 
+## 0) Preferencias de Comunicación
+- Responder por defecto de forma **corta y precisa**.
+- Extender solo cuando el mensaje lo amerite o el usuario lo pida.
+
 ## 1) Hechos Estables
 
 ### Identidad y rol
